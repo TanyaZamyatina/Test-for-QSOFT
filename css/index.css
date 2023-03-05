@@ -59,6 +59,7 @@ body {
 .search-form__input {
     width: 835px;
     height: 40px;
+    background: #FFFFFF;
     border: 1px solid #EBEBF1;
     border-radius: 5px;
     padding-left: 39px;
